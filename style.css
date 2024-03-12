@@ -1,0 +1,43 @@
+
+#weblogo {
+    background-color: #e6ffff;
+    padding: 10px;
+    border-radius: 10px;
+}
+.navbar {
+    overflow: hidden;
+    background-color: #008040;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+#heading{
+    padding-bottom: 70px;
+    
+}
+/** sign in **/
+
+.border {
+    background-color: #73e600;
+}
+
+#headerr{
+    background-color: #e6ffff;
+    display: flex;
+    align-items: center;
+    font-size: 1.5rem;
+}
+
+
